@@ -1,6 +1,6 @@
 import 'package:Keihbea/sign_in.dart';
 import 'package:flutter/material.dart';
-import 'first_screen.dart';
+import 'home.dart';
 import 'package:hexcolor/hexcolor.dart';
 
 class Login extends StatefulWidget {
@@ -52,7 +52,7 @@ class _LoginState extends State<Login> {
                   image: new AssetImage("assets/undraw_recording_lywr.png"),
                   height: 370,
                   fit: BoxFit.fitWidth),
-              SizedBox(height:50),
+              SizedBox(height: 50),
               _signInButton(),
             ],
           ),
@@ -69,7 +69,7 @@ class _LoginState extends State<Login> {
           Navigator.of(context).push(
             MaterialPageRoute(
               builder: (context) {
-                return FirstScreen();
+                return Home();
               },
             ),
           );
