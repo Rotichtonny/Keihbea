@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102130196557",
+    "firebase_url": "https://keihbea.firebaseio.com",
+    "project_id": "keihbea",
+    "storage_bucket": "keihbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102130196557:android:faba1d0074c210f319fc04",
+        "android_client_info": {
+          "package_name": "com.example.Keihbea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102130196557-ilp9csh6to1pdaalask0ck6dh1bq6m87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Keihbea",
+            "certificate_hash": "a66d698f07e8f73d96716c365ccd5bc95719f98b"
+          }
+        },
+        {
+          "client_id": "102130196557-vvutfqsvhntj78ut2783hvoqp4ugso5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqni7mWrWN-KjmL7f8M5iYL56f9VwPak0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102130196557-vvutfqsvhntj78ut2783hvoqp4ugso5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
